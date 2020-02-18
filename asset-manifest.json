@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.79ecf822.chunk.css",
+    "main.js": "./static/js/main.98d41400.chunk.js",
+    "main.js.map": "./static/js/main.98d41400.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.28807afd.js",
+    "runtime-main.js.map": "./static/js/runtime-main.28807afd.js.map",
+    "static/js/2.8d30b35c.chunk.js": "./static/js/2.8d30b35c.chunk.js",
+    "static/js/2.8d30b35c.chunk.js.map": "./static/js/2.8d30b35c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4399ba8d941e118523a03d1f0a9764a3.js": "./precache-manifest.4399ba8d941e118523a03d1f0a9764a3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.79ecf822.chunk.css.map": "./static/css/main.79ecf822.chunk.css.map",
+    "static/js/2.8d30b35c.chunk.js.LICENSE.txt": "./static/js/2.8d30b35c.chunk.js.LICENSE.txt",
+    "static/media/navigation.scss": "./static/media/George.30f66775.JPG",
+    "static/media/cleaner.png": "./static/media/cleaner.841392cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28807afd.js",
+    "static/js/2.8d30b35c.chunk.js",
+    "static/css/main.79ecf822.chunk.css",
+    "static/js/main.98d41400.chunk.js"
+  ]
+}
